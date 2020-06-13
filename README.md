@@ -1,2 +1,2 @@
 # CleanArchitectureBoilerPlate
-Clean Architecture Project Sample For .net core 3.1 with Mediator pattern.
+Clean Architecture Project Sample For .NET Core 3.1 in Mediator pattern.
