@@ -1,0 +1,9 @@
+﻿#If http verbs (PUT, DELETE) not allow to run, then
+
+#Add this line of code in web.config file
+
+<system.webServer>
+  <modules runAllManagedModulesForAllRequests="false">
+    <remove name="WebDAVModule" />
+  </modules>
+</system.webServer>
